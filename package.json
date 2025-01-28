@@ -1,0 +1,31 @@
+{
+  "name": "careo",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "bootstrap": "^5.3.2",
+    "dotenv": "^16.4.4",
+    "jose": "^5.2.2",
+    "jotai": "^2.6.4",
+    "mongoose": "^8.1.2",
+    "next": "^14.1.0",
+    "next-connect": "^1.0.0",
+    "nodemailer": "^6.9.9",
+    "react": "^18",
+    "react-bootstrap": "^2.10.0",
+    "react-confirm-alert": "^3.0.6",
+    "react-dom": "^18",
+    "react-router-dom": "^6.22.1"
+  },
+  "devDependencies": {
+    "eslint": "^8",
+    "eslint-config-next": "14.1.0"
+  }
+}
