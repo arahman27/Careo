@@ -1,6 +1,6 @@
 # This is Careo -  Your Self-Care Superhero
 
-Project members:
+Project members:  
 Brady Rhora  
 Aditya Rahman  
 Carmen Whitton  
