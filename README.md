@@ -1,6 +1,13 @@
 # This is Careo -  Your Self-Care Superhero
 
-This project is a web application developed using Next.js. It is designed to take in user skin and hair conditions and output the perfect routine for them.
+Project members:
+Brady Rhora
+Aditya Rahman
+Carmen Whitton
+Francis Colendres
+Marco Pasqua
+
+This collaborative project is a web application developed using Next.js. It is designed to take in user skin and hair conditions and output the perfect routine for them.
 
 Careo can be accessed online [here](https://careo-ivory.vercel.app/).
 
